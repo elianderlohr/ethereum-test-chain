@@ -1,0 +1,4 @@
+.donotsync.txt
+node_modules
+db
+truffle/build
